@@ -1,0 +1,62 @@
+﻿Build started 27.12.2013 20:01:58.
+     1>Project "C:\Users\Neriel\Downloads\Project_Cursa - Copy\Project_Curs\Project_Curs.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\vs13\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Project_Curs.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Form_start.cpp Project_Curs.cpp
+         Form_start.cpp
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Decoder.h(41): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(92): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(99): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(103): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(107): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(146): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 D:\vs13\VC\include\stdlib.h(937) : see declaration of 'itoa'
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(148): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 D:\vs13\VC\include\stdlib.h(937) : see declaration of 'itoa'
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Test.h(35): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Test.h(45): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Test.h(53): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(191): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(208): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(213): warning C4244: 'argument' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(232): warning C4244: 'argument' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form_start.h(24): warning C4244: 'argument' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form_start.h(187): warning C4101: 'exa' : unreferenced local variable
+         Project_Curs.cpp
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Decoder.h(41): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(92): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(99): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(103): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(107): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(146): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 D:\vs13\VC\include\stdlib.h(937) : see declaration of 'itoa'
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\FileOperation.h(148): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 D:\vs13\VC\include\stdlib.h(937) : see declaration of 'itoa'
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Test.h(35): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Test.h(45): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Test.h(53): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(191): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(208): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(213): warning C4244: 'argument' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form1.h(232): warning C4244: 'argument' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form_start.h(24): warning C4244: 'argument' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>c:\users\neriel\downloads\project_cursa - copy\project_curs\Form_start.h(187): warning C4101: 'exa' : unreferenced local variable
+         Generating Code...
+       Link:
+         D:\vs13\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Neriel\Downloads\Project_Cursa - Copy\Release\Project_Curs.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\Project_Curs.Form1.resources /ASSEMBLYRESOURCE:Release\Project_Curs.Form_Decode.resources /ASSEMBLYRESOURCE:Release\Project_Curs.Form_start.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Neriel\Downloads\Project_Cursa - Copy\Release\Project_Curs.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\app.res
+         Release\AssemblyInfo.obj
+         Release\Form_Decode.obj
+         Release\Form_start.obj
+         Release\Project_Curs.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+     1>LINK : fatal error LNK1104: cannot open file 'C:\Users\Neriel\Downloads\Project_Cursa - Copy\Release\Project_Curs.exe'
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(607,5): error MSB6006: "link.exe" exited with code 1104.
+     1>Done Building Project "C:\Users\Neriel\Downloads\Project_Cursa - Copy\Project_Curs\Project_Curs.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.72
